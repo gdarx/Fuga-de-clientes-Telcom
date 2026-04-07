@@ -23,11 +23,13 @@ A pesar de ser un servicio de más calidad, los clientes de Fibra Óptica se van
 ### Valor de los servicios de seguridad
 
 <img width="473" height="277" alt="image" src="https://github.com/user-attachments/assets/578939cd-52a6-407b-9704-3a19f201587a" />
+
 Los servicios adicionales reducen drásticamente la fuga, por ejemplo: Probabiliad de fuga de clientes con servicio técnico (15,17%) y sin (41,6%).
 
 ### Fricción en métodos de pago manuales
 
 <img width="772" height="463" alt="image" src="https://github.com/user-attachments/assets/706c3c2d-557c-4e53-854c-09616b7adc9f" />
+
 El método Transferencia/Webpay muestra una tasa de fuga alarmante del 45.3%. Esto sugiere que los clientes que deben realizar un pago manual mes a mes tienen más oportunidades de reconsiderar su permanencia o simplemente olvidar el pago y ser cortados.
 
 ### Ánalisis de fuga geográfico
@@ -37,6 +39,7 @@ Existe una disparidad geográfica en la fidelidad de los clientes. Concepción (
 #### Concepción
 
 <img width="889" height="500" alt="image" src="https://github.com/user-attachments/assets/8c258101-0138-4946-898c-a5ba8174bcb7" />
+
 #### San Pedro de la Paz
 
 <img width="888" height="494" alt="image" src="https://github.com/user-attachments/assets/0180b5c9-a8d1-41cb-9fa1-0df0e3cb68b1" />
