@@ -25,9 +25,12 @@ Los servicios adicionales reducen drásticamente la fuga, por ejemplo: Probabili
 El método Transferencia/Webpay muestra una tasa de fuga alarmante del 45.3%. Esto sugiere que los clientes que deben realizar un pago manual mes a mes tienen más oportunidades de reconsiderar su permanencia o simplemente olvidar el pago y ser cortados.
 ### Ánalisis de fuga geográfico
 Existe una disparidad geográfica en la fidelidad de los clientes. Concepción (32.0%) y San Pedro de la Paz (31.7%) presentan las tasas de fuga más altas, superando el promedio general de la empresa (26.5%).
+
 #### Concepción
+
 <img width="889" height="500" alt="image" src="https://github.com/user-attachments/assets/8c258101-0138-4946-898c-a5ba8174bcb7" />
 #### San Pedro de la Paz
+
 <img width="888" height="494" alt="image" src="https://github.com/user-attachments/assets/0180b5c9-a8d1-41cb-9fa1-0df0e3cb68b1" />
 
 ## Recomendaciones
