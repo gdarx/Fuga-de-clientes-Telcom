@@ -15,15 +15,23 @@ Se encontraron 11 valores nulos en la columna "Cargo Total", y esto es debido a 
 Por otro lado no se encontraron inconsistencias en los tipos de datos ni registros duplicados. Finalmente exporte el conjunto limpio de Python para seguir trabajando en Power BI.
 ## Análisis y Visualizaciones
 ### Fuga crítica en fibra óptica
+
 <img width="345" height="128" alt="image" src="https://github.com/user-attachments/assets/0fcb0913-66de-4fba-90e4-02e15af1ccb5" />
+
 A pesar de ser un servicio de más calidad, los clientes de Fibra Óptica se van el doble que los de ADSL (41.9% vs 19%). Esto sugiere problemas de calidad de servicio o precios no competitivos en este segmento.
+
 ### Valor de los servicios de seguridad
+
 <img width="473" height="277" alt="image" src="https://github.com/user-attachments/assets/578939cd-52a6-407b-9704-3a19f201587a" />
 Los servicios adicionales reducen drásticamente la fuga, por ejemplo: Probabiliad de fuga de clientes con servicio técnico (15,17%) y sin (41,6%).
+
 ### Fricción en métodos de pago manuales
+
 <img width="772" height="463" alt="image" src="https://github.com/user-attachments/assets/706c3c2d-557c-4e53-854c-09616b7adc9f" />
 El método Transferencia/Webpay muestra una tasa de fuga alarmante del 45.3%. Esto sugiere que los clientes que deben realizar un pago manual mes a mes tienen más oportunidades de reconsiderar su permanencia o simplemente olvidar el pago y ser cortados.
+
 ### Ánalisis de fuga geográfico
+
 Existe una disparidad geográfica en la fidelidad de los clientes. Concepción (32.0%) y San Pedro de la Paz (31.7%) presentan las tasas de fuga más altas, superando el promedio general de la empresa (26.5%).
 
 #### Concepción
