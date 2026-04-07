@@ -24,9 +24,9 @@ Por otro lado no se encontraron inconsistencias en los tipos de datos ni registr
 
 ### Ánalisis de fuga geográfico
 #### Concepción
-<img width="1110" height="588" alt="image" src="https://github.com/user-attachments/assets/0b05a3ee-205e-4235-a011-ca8866dbed55" />
+<img width="889" height="500" alt="image" src="https://github.com/user-attachments/assets/8c258101-0138-4946-898c-a5ba8174bcb7" />
 
 #### San Pedro de la Paz
-<img width="1112" height="591" alt="image" src="https://github.com/user-attachments/assets/40e2e9ae-d3b0-4a01-ad7c-e361e88d7914" />
+<img width="888" height="494" alt="image" src="https://github.com/user-attachments/assets/0180b5c9-a8d1-41cb-9fa1-0df0e3cb68b1" />
 
 ## Recomendaciones
